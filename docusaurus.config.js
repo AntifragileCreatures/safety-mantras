@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'antifragilecreatures', // Usually your GitHub org/user name.
+  projectName: 'safety-mantras', // Usually your repo name.
 
   presets: [
     [
@@ -55,7 +55,6 @@ const config = {
             position: 'left',
             label: 'Safety Mantras',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
