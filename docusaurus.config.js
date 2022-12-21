@@ -8,9 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
+  url: 'https://antifragilecreatures.github.io',
+  baseUrl: '/safety-mantras/',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'antifragilecreatures', // Usually your GitHub org/user name.
@@ -44,10 +44,10 @@ const config = {
     ({
       navbar: {
         // title: 'My Site',
-        logo: {
+        /* logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
-        },
+        }, */
         items: [
           {
             type: 'doc',
@@ -65,12 +65,12 @@ const config = {
             docId: 'development/git',
             label: 'Development',
           }, */
-          {
+          /* {
             type: 'doc',
             docId: 'development/git',
             position: 'left',
             label: 'Development',
-          }
+          } */
         ],
       },
       footer: {
