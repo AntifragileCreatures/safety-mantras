@@ -2,8 +2,6 @@
 sidebar_position: 4
 ---
 
-# Mantras
-
 ## Gayatri Mantra
 
 Om Bhur Bhuvaḥ Swaḥ  

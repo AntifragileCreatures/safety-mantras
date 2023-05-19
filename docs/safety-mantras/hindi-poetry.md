@@ -1,20 +1,22 @@
----
+<!-- ---
 sidebar_position: 2
----
-
-# Hindi and Urdu Poems
+--- -->
 
 ## Ye khel kya hai
 Javed Akhtar
 
-https://www.rekhta.org/poets/javed-akhtar/nazms
+Link to [video](https://www.youtube.com/watch?v=E9TWsISngA8)
 
 
-## Vaqt
+## Ye waqt kya hai
 Javed Akhtar
+
+Link to [video](https://www.youtube.com/watch?v=3xmg1I2u7Rc)
 
 ## Aansu
 Javed Akhtar
+
+Link to [video](https://www.youtube.com/watch?v=Z5nuM0U5p6w)
 
 ## Koshish karne waalon ki haar nahin hoti
 Sohan Lal Dwivedi

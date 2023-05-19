@@ -7,15 +7,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Poetry',
   url: 'https://antifragilecreatures.github.io',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'antifragilecreatures', // Usually your GitHub org/user name.
+  favicon: 'img/rbt.ico',
+  //organizationName: 'antifragilecreatures', // Usually your GitHub org/user name.
   projectName: 'safety-mantras', // Usually your repo name.
-
+  
   presets: [
     [
       'classic',
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: undefined,
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl:
+          //  'https://github.com/AntifragileCreatures/safety-mantras',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -51,15 +51,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'safety-mantras/english-poems',
+            docId: 'safety-mantras/english-poetry',
             position: 'left',
             label: 'Safety Mantras',
           },
-          {
-            href: 'https://github.com/facebook/docusaurus',
+          /* {
+            href: 'https://github.com/AntifragileCreatures/safety-mantras',
             label: 'GitHub',
             position: 'right',
-          },
+          }, */
           /* {
             to: '/development',
             docId: 'development/git',
@@ -74,7 +74,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        /* style: 'dark',
         links: [
           {
             title: 'Docs',
@@ -115,8 +115,9 @@ const config = {
               },
             ],
           },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        ], */
+        copyright: `Poetry is life distilled in verse.`,
+        
       },
       prism: {
         theme: lightCodeTheme,
