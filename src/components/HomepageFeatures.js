@@ -6,9 +6,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          <h3>let's do this</h3>
-        </div>
+          <p style={{ textAlign: 'center' }}>Working up the courage, verse by verse.</p>
       </div>
     </section>
   );
