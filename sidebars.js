@@ -26,6 +26,10 @@ const sidebars = {
       type: 'category',
       label: 'Poetry',
       items: ['safety-mantras/english-poetry', 'safety-mantras/hindi-poetry'],
+    },{
+      type: 'category',
+      label: 'React',
+      items: ['react/test'],
     },
   ],
 
