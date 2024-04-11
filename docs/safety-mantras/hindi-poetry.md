@@ -46,3 +46,6 @@ Boora jeve khand main gaya
 Boora na milya koi
 Jo main aapo dekhya
 Mujhko boora na koi
+
+along the lines of:
+And why worry about a speck in your friend's eye when you have a log in your own.
